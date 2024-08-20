@@ -45,7 +45,7 @@ Here's a brief overview of the project structure:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/echo-rift-backend.git
+   git clone https://github.com/WeCan-Games/echo-rift-backend.git
    cd echo-rift-backend
    ```
 
